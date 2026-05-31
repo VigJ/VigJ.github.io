@@ -61,3 +61,18 @@
         #f9e2af 100%
     );
 }
+
+
+
+.author__urls .btn--ctp-peach, 
+.author__urls .btn--ctp-pink, 
+.author__urls .btn--ctp-green, 
+.author__urls .btn--ctp-blue {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: 0.25em auto;
+    padding: 0.6em 1.2em;
+    line-height: 1.2;
+}

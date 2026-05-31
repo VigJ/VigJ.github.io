@@ -20,13 +20,6 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
   
-  <a href="/files/CV/CV.pdf"
-   class="btn btn--ctp-peach"
-   style="text-decoration: none;"
-   target="_blank">
-  Click here for my CV
-  </a>
-  <br> <br>
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
@@ -43,8 +36,9 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
+      <li><a href="/files/CV/CV.pdf" target="_blank" rel="noopener noreferrer" class="btn btn--ctp-green"><i class="fas fa-fw fa-file-alt icon-pad-right" aria-hidden="true"></i>My CV</a></li>
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+      <li><a href="mailto:{{ author.email }}" class="btn btn--ctp-blue"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
@@ -52,8 +46,8 @@
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
       {% endif %}
       {% if author.arxiv %}
-        <li><a href="{{ author.arxiv }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
-      {% endif %}      
+        <li><a href="{{ author.arxiv }}" target="_blank" rel="noopener noreferrer" class="btn btn--ctp-peach"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>ArXiv</a></li>
+        {% endif %}      
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
@@ -64,7 +58,7 @@
         <li><a href="{{ author.impactstory }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-impactstory ai-fw icon-pad-right"></i>Impactstory</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
+      <li><a href="{{ author.orcid }}" target="_blank" rel="noopener noreferrer" class="btn btn--ctp-green"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
@@ -96,7 +90,7 @@
         <li><a href="https://dribbble.com/{{ author.dribbble }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-dribbble icon-pad-right" aria-hidden="true"></i>Dribbble</a></li>
       {% endif %}      
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
+      <li><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener noreferrer" class="btn btn--ctp-pink"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
@@ -137,7 +131,7 @@
         <li><a href="https://last.fm/user/{{ author.lastfm }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-lastfm icon-pad-right" aria-hidden="true"></i>Last.fm</a></li>
       {% endif %}      
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener noreferrer" class="btn btn--ctp-blue"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
       {% if author.mastodon %}
         <li><a href="{{ author.mastodon }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-mastodon icon-pad-right" aria-hidden="true"></i>Mastodon</a></li>

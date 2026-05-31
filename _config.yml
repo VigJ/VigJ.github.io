@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "catpuccindarkest" # The default options are "default", "air", "sunrise", "mint", "dirt" and "contrast. I added catpuccin, catpuccindarker, and catpuccindarkest "
+site_theme               : "catpuccindarkest" # The default options are "default", "air", "sunrise", "mint", "dirt" and "contrast. I added catpuccin and catpuccindarker "
 title                    : "Vignesh Jagathese"
 title_separator          : "-"
 name                     : &name "Vignesh Jagathese"
@@ -39,7 +39,7 @@ author:
   googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-4665-9938"
+  orcid            : # "https://orcid.org/0000-0003-4665-9938"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "vignesh-jagathese"
+  linkedin         : # "vignesh-jagathese"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

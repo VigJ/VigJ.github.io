@@ -3,12 +3,6 @@ permalink: /publications
 title: "Publications"
 author_profile: true
 ---
-<a href="https://arxiv.org/search/math?searchtype=author&query=Jagathese,+V"
-   class="btn btn--ctp-peach"
-   style="text-decoration: none;"
-   target="_blank">
-My ArXiv Page
-</a>
 
 Published
 --------- 
