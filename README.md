@@ -8,11 +8,11 @@ Installing My Catpuccin Theme
 --------------------------
 If you use the academicpages template and would like to copy this theme for your own use, you will need to put the following files into your `_sass/theme/` folder:
 
-`/_sass/theme/_catpuccin_dark.scss` (Frappe theme)
+`_sass/theme/_catpuccin_dark.scss` (Frappe theme)
 
-`/_sass/theme/_catpuccindarker_dark.scss` (Macchiato theme)
+`_sass/theme/_catpuccindarker_dark.scss` (Macchiato theme)
 
-`/_sass/theme/_catpuccindarkest_dark.scss` (Mocha theme)
+`_sass/theme/_catpuccindarkest_dark.scss` (Mocha theme)
 
 And the "light mode" theme files, which are all the Catpuccin Latte theme.
 
@@ -28,13 +28,13 @@ To theme highlighting and your footer, also add
 
 `_sass/catpuccin_overrides.scss`
 
-to your `_sass/` folder then add `"catpuccin_overrides"` (possibly followed by a comma) to your `/assets/css/main.scss` file inside `@ imports {...}`. 
+to your `_sass/` folder then add `"catpuccin_overrides"` (possibly followed by a comma) to your `assets/css/main.scss` file inside `@ imports {...}`. 
 
 If you want to use my fun buttons, add the file 
 
 `_sass/catpuccin_buttons.scss`
 
-to your `_sass` folder and add `"catpuccin_buttons"` (possibly followed by a comma) to your `/assets/css/main.scss` file inside `@ imports {...}`. To use the buttons, the classes are called `btn--ctp-___`, for "___" any of "blue", "green", "pink", and "peach". 
+to your `_sass` folder and add `"catpuccin_buttons"` (possibly followed by a comma) to your `assets/css/main.scss` file inside `@ imports {...}`. To use the buttons, the classes are called `btn--ctp-___`, for "___" any of "blue", "green", "pink", and "peach". 
 
 I stole these buttons directly from the catpuccin.com homepage. I am colorblind and did not trust myself to pick my own colors. These buttons are compatible with the persistent sidebar, as you see on my website. Take a look at my `_includes/author-profile.html` file for how I did this. Note that I only implemented the buttons for the things in the profile that I myself use alongside ORCiD and LinkedIn, which I removed later in this website's development (because who needs those?). Buttons work for intra-site and web links, and can be used in your HTML like below: 
 
@@ -51,4 +51,4 @@ If you want your titles to "pop" with the rainbow pastel effect like in my landi
 
 `_sass/catpuccin_titles.scss`
 
-to your `_sass` folder and add `"catpuccin_titles` (possibly followed by a comma) to your `/assets/css/main.scss` file inside `@ imports {...}`. Note, the gradient was forced to "start late" so that the rainbow wouldn't appear on my shorter titles but would appear on the landing page title. This was to do two things; to get the rainbow portion only show up on the "welcome to my webpage" text and for the rainbow to only go on the landing page. This is a bit of a hack and I would love to know a better solution for this.  
+to your `_sass` folder and add `"catpuccin_titles` (possibly followed by a comma) to your `assets/css/main.scss` file inside `@ imports {...}`. Note, the gradient was forced to "start late" so that the rainbow wouldn't appear on my shorter titles but would appear on the landing page title. This was to do two things; to get the rainbow portion only show up on the "welcome to my webpage" text and for the rainbow to only go on the landing page. This is a bit of a hack and I would love to know a better solution for this.  
