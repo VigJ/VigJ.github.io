@@ -43,7 +43,7 @@ at Banff Interational Research Station, held in October 2025. Much like my notes
    class="btn btn--ctp-green"
    style="text-decoration: none;"
    target="_blank">
-(Summer '25) SRI Bootcamp
+(Summer 2025) SRI Bootcamp
 </a>
 </p>
 
@@ -64,7 +64,7 @@ These are notes from the
    class="btn btn--ctp-green"
    style="text-decoration: none;"
    target="_blank">
-(Fall '24) Methods in Mixed Characteristic Geometry (MMCG)
+(Fall 2024) Methods in Mixed Characteristic Geometry (MMCG)
 </a>
 </p>
 
@@ -84,7 +84,7 @@ here.
    class="btn btn--ctp-green"
    style="text-decoration: none;"
    target="_blank">
-(Fall '23) Perfectoid Spaces (Mini-Course)
+(Fall 2023) Perfectoid Spaces (Mini-Course)
 </a>
 </p>
 
@@ -99,7 +99,7 @@ These are notes from a mini-course on Perfectoid Spaces taught by Kevin Tucker a
    class="btn btn--ctp-green"
    style="text-decoration: none;"
    target="_blank">
-(Summer '23) MSRI/SLMath CMND Summer School
+(Summer 2023) MSRI/SLMath CMND Summer School
 </a>
 </p>
 
@@ -125,7 +125,7 @@ Courses
    class="btn btn--ctp-pink"
    style="text-decoration: none;"
    target="_blank">
-(Spring '23) Math 553: Algebraic Geometry II
+(Spring 2023) Math 553: Algebraic Geometry II
 </a>
 </p>
 
@@ -140,7 +140,7 @@ This course covered chapters 2 and 3 of Hartshorne's book.
    class="btn btn--ctp-pink"
    style="text-decoration: none;"
    target="_blank">
-(Fall '22) Math 520: Commutative Algebra
+(Fall 2022) Math 520: Commutative Algebra
 </a>
 </p>
 
@@ -155,7 +155,7 @@ This is a good companion set of notes to the last time I took commutative algebr
    class="btn btn--ctp-pink"
    style="text-decoration: none;"
    target="_blank">
-(Fall '22) Math 554: Complex Manifolds
+(Fall 2022) Math 554: Complex Manifolds
 </a>
 </p>
 
@@ -170,7 +170,7 @@ While these notes are only for a bit more than half the course, they are organiz
    class="btn btn--ctp-pink"
    style="text-decoration: none;"
    target="_blank">
-(Fall '19) Math 614: Commutative Algebra
+(Fall 2019) Math 614: Commutative Algebra
 </a>
 </p>
 
@@ -190,7 +190,7 @@ here.
    class="btn btn--ctp-pink"
    style="text-decoration: none;"
    target="_blank">
-(Winter '19) Math 594: Graduate Algebra II
+(Winter 2019) Math 594: Graduate Algebra II
 </a>
 </p>
 
