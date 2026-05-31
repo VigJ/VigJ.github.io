@@ -1,7 +1,7 @@
 Vignesh Jagathese's Academic Webpage 
 ====================================
 
-This repository contains code for my personal academic webpage, forked from  https://academicpages.github.io/ with some custom catpuccin (catpuccin.com) theming. 
+This repository contains code for my personal academic webpage, forked from  https://academicpages.github.io/ with some custom [catpuccin](catpuccin.com) theming. 
 
 
 Installing My Catpuccin Theme
