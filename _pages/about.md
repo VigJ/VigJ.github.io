@@ -19,7 +19,6 @@ I am currently a Visiting Assistant Professor at North Dakota State University, 
   background: rgba(255,255,255,0.06);
   border: 1px solid rgba(255,255,255,0.12);
   border-radius: 12px;
-  color: white;
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
 ">
