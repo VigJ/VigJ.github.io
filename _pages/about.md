@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I'm Vignesh, welcome to my webpage."
+title: "Hello! I'm Vignesh. Welcome to my webpage."
 redirect_from: 
   - /about/
   - /about.html
