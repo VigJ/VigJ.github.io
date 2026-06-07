@@ -33,6 +33,14 @@ joint with
 <br>
   Mathematische Zeitschrift, <em>(to appear)</em>
 
+<hr style="border-color: rgba(255,255,255,0.12);">
+  <strong>(2026) Permanence Properties of Quasi-F-Singularities over Arbitrary Fields </strong> <a href="files/Vignesh_Thesis_FINAL.pdf"
+   class="btn btn--ctp-blue"
+   style="text-decoration: none;"
+   target="_blank">
+PDF
+</a>
+PhD Thesis, University of Illinois Chicago. (xvii + 187 pages) 
 
 
 <hr style="border-color: rgba(255,255,255,0.12);">
@@ -50,7 +58,6 @@ Journal
 </a>
   <br>
 Communications in Algebra <strong>54</strong> (2026) no. 4, 1760-1771
-
 
 </div>
 
