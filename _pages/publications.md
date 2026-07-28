@@ -21,6 +21,12 @@ Published
    target="_blank">
 ArXiv
 </a>
+  <a href="https://link.springer.com/article/10.1007/s00209-026-04045-0"
+   class="btn btn--ctp-blue"
+   style="text-decoration: none;"
+   target="_blank">
+Journal
+    </a>
 <br>
 <em>
 joint with
@@ -31,7 +37,7 @@ joint with
 <a href="https://math.ua.edu/people/prashanth-sridhar/" target="_blank" rel="noopener noreferrer">Prashanth Sridhar</a>
 </em>
 <br>
-  Mathematische Zeitschrift, <em>(to appear)</em>
+   Mathematische Zeitschrift <strong>313</strong> (2026), no. 2, Paper No. 32. (27 pages)
 
 <hr style="border-color: rgba(255,255,255,0.12);">
   <strong>(2026) Permanence Properties of Quasi-F-Singularities over Arbitrary Fields </strong> <a href="files/Vignesh_Thesis_FINAL.pdf"
@@ -57,7 +63,7 @@ ArXiv
 Journal
 </a>
   <br>
-Communications in Algebra <strong>54</strong> (2026) no. 4, 1760-1771
+Communications in Algebra <strong>54</strong> (2026) no. 4, 1760-1771. (12 pages)
 
 </div>
 
