@@ -13,6 +13,20 @@ I'm a big advocate for [Inquiry Based Learning](https://www.ceebl.manchester.ac.
 
 Instructor Positions
 -------------------- 
+- **(Fall 2026, NDSU) Math 144: Mathematics for Business**
+<a href="/files/2026_104Syllabus.pdf"
+   class="btn btn--ctp-pink"
+   style="text-decoration: none;"
+   target="_blank">
+Syllabus
+</a>
+- **(Summer 2026, UIC) SEMW 108: Summer Enrichment Mathematics Workshop—Intermediate Algebra**
+<a href="https://summercollege.uic.edu/summer-enrichment-mathematics-workshop/"
+   class="btn btn--ctp-pink"
+   style="text-decoration: none;"
+   target="_blank">
+Description
+</a>
 - **(Spring 2025, UIC) Math 109: College Algebra Workshop**
 <a href="/files/2025_109Syllabus.pdf"
    class="btn btn--ctp-pink"
