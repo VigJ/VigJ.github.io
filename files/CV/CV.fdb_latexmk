@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1787672160.09595 "CV.tex" "CV.pdf" "CV" 1787672160.74733 0
+["pdflatex"] 1792351304.2511 "CV.tex" "CV.pdf" "CV" 1792351305.43161 0
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1775415801 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1775415801 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1775415801 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -29,6 +29,7 @@
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1775415801 928 2dc8d444221b7a635bb58038579b861a ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1775415801 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1775415801 940 228d6584342e91276bf566bcf9716b83 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1775415801 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1775415801 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1775415801 1344 8a0be4fe4d376203000810ad4dc81558 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1775415801 1332 1fde11373e221473104d6cc5993f046e ""
@@ -216,9 +217,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1775415801 43569 fd570f2fa160877d211e859f687312ba ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1781112344 5385779 47c0c393a77fd4a098bacfd57d66b88a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1781111882 2328187 ba13d33e10c7538b188872bbb4b21293 ""
-  "CV.aux" 1787672160.68236 1586 029aeea542b5362e29c429fe9df2b5f0 "pdflatex"
-  "CV.out" 1787672160.68303 1922 fdc3a9b7de7681654bbf105f33b6bca5 "pdflatex"
-  "CV.tex" 1787672159.06574 7248 702162dfa3a869284287fb79f166914e ""
+  "CV.aux" 1792351305.30283 1586 029aeea542b5362e29c429fe9df2b5f0 "pdflatex"
+  "CV.out" 1792351305.30412 1922 fdc3a9b7de7681654bbf105f33b6bca5 "pdflatex"
+  "CV.tex" 1792351302.24477 7486 c6496af91392b98ce879658ad40ab69f ""
   (generated)
   "CV.aux"
   "CV.log"
